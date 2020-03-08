@@ -6,7 +6,8 @@ npm install webpack -g
 npm install -D webpack-cli
 
 # Webpack command
-webpack script-1.js -o bundle.js
+webpack script-1.js -o bundle.js (to run before defining webpack config file)
+webpack ( to run after adding webpack config)
 
 # Atom IDE installed packages
 atom-live-server
